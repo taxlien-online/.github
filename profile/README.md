@@ -2,12 +2,12 @@
 
 🌟 Welcome to **TaxLien.online**.
 
-**TaxLien.Online** is a platform that helps investors find and purchase tax liens and deeds on properties.
+**TaxLien.online** is a platform that helps investors find and purchase tax liens and deeds on properties.
 
 When property owners fail to pay their taxes, the government places a lien on the property.
 Investors can buy these liens, providing funds to the government, and earn interest when the property owner repays the debt. If the debt remains unpaid, the investor may gain ownership of the property.
 
-This makes TaxLien.Online a straightforward way for investors to participate in this process and generate **guaranteed income** secured by real estate in case of default.
+This makes TaxLien.online a straightforward way for investors to participate in this process and generate **guaranteed income** secured by real estate in case of default.
 
 ## Business Goals
 📈 Our mission is to:
